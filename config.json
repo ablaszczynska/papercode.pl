@@ -1,0 +1,44 @@
+{
+  "baseURL": "https://papercode.pl/",
+  "languageCode": "en-us",
+  "title": "Paper Code Adrianna Błaszczyńska",
+  "theme": "hello-friend-ng",
+  "author": {
+    "name": "Adrianna Błaszczyńska"
+  },
+  "disableKinds": ["term", "taxonomy", "RSS", "sitemap"],
+  "params": {
+    "homeSubtitle": "Apps & software development",
+    "logo": {
+      "logoMark": " ",
+      "logoText": "papercode.pl",
+      "logoCursorDisabled": true
+    },
+    "social": [
+      {
+        "name": "email",
+        "url": "mailto:hello@papercode.pl"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ablaszczynska"
+      }
+    ]
+  },
+  "menu": {
+    "main": [
+      {
+        "identifier": "apps",
+        "name": "Apps",
+        "url": "apps/",
+        "weight": 1
+      },
+      {
+        "identifier": "about",
+        "name": "About",
+        "url": "about/",
+        "weight": 2
+      }
+    ]
+  }
+}
