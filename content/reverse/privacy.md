@@ -4,8 +4,6 @@
   "url": "/apps/reverse/privacy"
 }
 
-**Privacy Policy**
-
 Paper Code Adrianna Błaszczyńska built the Just Reverse Video! app as a Commercial app. This SERVICE is provided by Paper Code Adrianna Błaszczyńska and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
