@@ -1,6 +1,6 @@
 {
   "title": "Just Remove Photo Background!",
-  "date": "2022-08-15"
+  "date": "2022-08-24"
 }
 
 Just Remove Photo Background! is simple app to remove background from your photo from your library. 
