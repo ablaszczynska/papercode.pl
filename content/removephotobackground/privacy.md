@@ -1,7 +1,7 @@
 {
   "title": "Privacy Policy",
   "date": "2022-08-24",
-  "url": "/apps/removePhotoBackground/privacy"
+  "url": "/apps/removephotobackground/privacy"
 }
 
 Paper Code Adrianna Błaszczyńska built the Just Remove Photo Background! app as a Commercial app. This SERVICE is provided by Paper Code Adrianna Błaszczyńska and is intended for use as is.
