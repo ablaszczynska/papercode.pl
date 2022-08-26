@@ -10,7 +10,7 @@ We are open to your feedback. Download the app now and let us know what feature 
 
 ---
 
-[Download on the App Store](#) -> Comming soon...
+[Download on the App Store](https://apps.apple.com/us/app/just-remove-photo-background/id1641520107)
 
 [Terms and Conditions](terms)  
 [Privacy Policy](privacy)
