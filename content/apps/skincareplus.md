@@ -30,4 +30,4 @@ You could also reach App Store support directly in cases related to transactions
 
 ---
 
-![Screenshots]()
+![Screenshots](SkinCarePlusAll.png)
