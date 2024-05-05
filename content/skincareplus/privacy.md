@@ -1,3 +1,5 @@
+{ "title": "Privacy Policy", "date": "2024-05-05", "url": "/apps/skincareplus/privacy" }
+
 **Privacy Policy**
 
 This privacy policy applies to the SkinCare+ app (hereby referred to as "Application") for mobile devices that was created by Paper Code Adrianna Blaszczynska (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
