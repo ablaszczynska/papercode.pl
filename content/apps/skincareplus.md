@@ -3,7 +3,17 @@
   "date": "2024-05-05"
 }
 
-SkinCare+ is... [comming soon]
+SkinCare+ is an innovative mobile app designed for everyone who wish to manage their skin care in an organized and effective manner. With this app, you can easily add your favorite cosmetics to your list, create personalized skincare plans, and track your progress without the need for internet access.
+
+App Features:
+
+- **Cosmetic Management**: Add the cosmetics you use, including basic information about the brand and product name.
+- **Creating Skincare Plans**: Set skincare steps, assign cosmetics to specific days of the week, and define the time for tasks. Customize your plans - using different emoji icons to better organize your routine.
+- **Task Calendar**: Track your daily skincare tasks with a convenient calendar view on the home page. Mark steps or entire tasks as completed.
+- **Notifications**: Receive reminders 10 minutes before a scheduled task, ensuring you never forget your skincare routine.
+- **Progress Tracking**: Monitor your weekly and overall statistics to see how many consecutive days you have adhered to your plan and how many routines have been completed.
+
+SkinCare+ is available in Polish and English, making the app easy and intuitive to use. The purchase of the app is one-time, providing access to all features without additional fees or advertisements.
 
 ---
 
