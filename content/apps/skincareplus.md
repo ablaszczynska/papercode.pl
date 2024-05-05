@@ -29,5 +29,5 @@ If you have encountered any problems with the app, reach us at support@papercode
 You could also reach App Store support directly in cases related to transactions and refunds.
 
 ---
+![SkinCarePlusAll](https://github.com/ablaszczynska/papercode.pl/assets/39055209/ef14b498-6e82-485e-a81d-ee305bf9ab83)
 
-![Screenshots](SkinCarePlusAll.png)
