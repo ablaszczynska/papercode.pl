@@ -8,6 +8,7 @@ Paper Code Adrianna Błaszczyńska is apps and software development company spec
 You can contact me:
 
 * **E-mail:** hello@papercode.pl
+* **[Buy me a coffee](https://buymeacoffee.com/adriannablaszczynska)** ☕️
 
 ---
 
