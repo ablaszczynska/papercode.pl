@@ -1,4 +1,4 @@
-{ "title": "Privacy Policy", "date": "2026-10-24", "url": "/apps/midnightfridge/privacy" }
+{ "title": "Privacy Policy", "date": "2026-11-03", "url": "/apps/midnightfridge/privacy" }
 
 **Privacy Policy**
 
@@ -6,7 +6,7 @@ This privacy policy applies to the Midnight Fridge app (hereby referred to as "A
 
 **The short version**
 
-Midnight Fridge does not collect, store, or share any personal data. Nothing you do in the game leaves your phone.
+Midnight Fridge does not collect, store, or share any personal data. Nothing you do in the game leaves your phone, unless you choose to post on the feedback board.
 
 **What the Application keeps, on your device**
 
@@ -21,7 +21,6 @@ This is stored only in the Application's own storage on your device. The Service
 *   It has no user accounts and no registration.
 *   It contains no advertising, no analytics, and no tracking of any kind.
 *   It contains no third-party code that collects data.
-*   It does not connect to the internet.
 *   It does not access your contacts, photos, location, camera or microphone.
 
 On iPhone Duo, the Application reads how far the phone is open, so it knows when the fridge door opens and shuts. This is used in the moment, and it is not stored or sent anywhere.
@@ -34,6 +33,10 @@ The Application is a one-time purchase processed entirely by Apple through your 
 
 If you have turned on "Share with App Developers" in your device's settings (Settings > Privacy & Security > Analytics & Improvements), Apple may share crash reports and basic usage statistics with the Service Provider, without your identity. This is Apple's system, under Apple's privacy policy, and you can turn it off there at any time. The Application itself sends nothing.
 
+**Feedback**
+
+The Application has a feedback board, run by Featurebase. Posting there is optional and anonymous. Anything you post goes to Featurebase, under Featurebase's privacy policy too, and the Service Provider can read it.
+
 **Children**
 
 The Application does not collect personal information from anyone, including children under the age of 13.
@@ -42,7 +45,7 @@ The Application does not collect personal information from anyone, including chi
 
 If a future version of the Application ever needs data, this page and the App Store privacy label will be updated before that version is released.
 
-This privacy policy is effective as of 2026-10-24
+This privacy policy is effective as of 2026-11-03
 
 **Contact Us**
 
