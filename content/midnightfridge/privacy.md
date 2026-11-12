@@ -1,4 +1,4 @@
-{ "title": "Privacy Policy", "date": "2026-11-03", "url": "/apps/midnightfridge/privacy" }
+{ "title": "Privacy Policy", "date": "2026-11-12", "url": "/apps/midnightfridge/privacy" }
 
 **Privacy Policy**
 
@@ -37,6 +37,8 @@ If you have turned on "Share with App Developers" in your device's settings (Set
 
 The Application has a feedback board, run by Featurebase. Posting there is optional and anonymous. Anything you post goes to Featurebase, under Featurebase's privacy policy too, and the Service Provider can read it.
 
+Support, in the Application's settings, starts an email to the Service Provider in your own mail app. To help find a problem, the Application fills in its version, your device model, your iOS version, your text size and language, and the room and round you're on. You see all of it before sending, and you can change or delete any of it. Nothing is sent unless you send the email yourself, and the Service Provider uses it only to answer you.
+
 **Children**
 
 The Application does not collect personal information from anyone, including children under the age of 13.
@@ -45,7 +47,7 @@ The Application does not collect personal information from anyone, including chi
 
 If a future version of the Application ever needs data, this page and the App Store privacy label will be updated before that version is released.
 
-This privacy policy is effective as of 2026-11-03
+This privacy policy is effective as of 2026-11-12
 
 **Contact Us**
 
